@@ -16,9 +16,10 @@ Using **class** we will create the **Objects**.
             print("This is function")   #define the function
 ```
 
-``hcl 
-     To call the class like below:
-        print(class_name.function(1))
+```hcl
+
+    print(class_name.function(1))
+
 ```
 
 ## Why Do We Use Classes?
