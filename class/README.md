@@ -17,7 +17,7 @@ Using **class** we will create the **Objects**.
 ```
 
 ``hcl 
-    To call the class like below:
+     To call the class like below:
         print(class_name.function(1))
 ```
 
